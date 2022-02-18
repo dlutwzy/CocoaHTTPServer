@@ -1,5 +1,4 @@
 Pod::Spec.new do |s|
-    s.name     = 'Pod::Spec.new do |s|
   s.name     = 'CocoaHTTPServer'
   s.version  = '2.3.1'
   s.license  = 'MIT'
