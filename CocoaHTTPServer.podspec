@@ -18,4 +18,4 @@ Pod::Spec.new do |s|
   s.tvos.pod_target_xcconfig = { 'PRODUCT_BUNDLE_IDENTIFIER' => 'com.dlutwzy.CocoaHTTPServer' }
 
   s.source_files = 'Core/**/*.{h,m}', 'Extensions/**/*.{h,m}'
-end'
+end
